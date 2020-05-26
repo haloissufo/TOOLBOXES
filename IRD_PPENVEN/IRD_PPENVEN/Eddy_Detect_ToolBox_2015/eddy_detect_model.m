@@ -7,7 +7,7 @@
 %  The tracking should be done after to give an ID to each eddy
 %  using tracking_eddies.m
 %
-%  Pierrick Penven, IRD, 2011.
+%  Pierrick Penven, IRD, 2015.
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %

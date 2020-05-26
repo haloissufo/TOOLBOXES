@@ -3,7 +3,7 @@
 %  Animate Eddies from the eddy file
 %
 %
-%  Pierrick Penven, IRD, 2011.
+%  Pierrick Penven, IRD, 2015.
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %

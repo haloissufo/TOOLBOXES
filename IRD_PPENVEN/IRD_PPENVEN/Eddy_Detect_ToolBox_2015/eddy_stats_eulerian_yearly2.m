@@ -43,7 +43,7 @@
 %  (this is usefull to compare the energy of eddies with observed
 %   eke from altimetry).
 %
-%  Pierrick Penven, IRD, 2011.
+%  Pierrick Penven, IRD, 2015.
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %

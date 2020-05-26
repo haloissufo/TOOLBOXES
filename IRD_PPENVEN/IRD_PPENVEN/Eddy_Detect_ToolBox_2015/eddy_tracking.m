@@ -7,7 +7,7 @@
 %  same eddy. If this implies an unrealistic velocity, this can
 %  not be the same eddy: in this case this is a new eddy.
 %
-%  Pierrick Penven, IRD, 2011.
+%  Pierrick Penven, IRD, 2015.
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %

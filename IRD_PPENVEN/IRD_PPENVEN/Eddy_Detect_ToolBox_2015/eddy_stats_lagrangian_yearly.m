@@ -42,7 +42,7 @@
 %  each individual eddy is counted only once (even if it has 
 %  a long duration).
 %
-%  Pierrick Penven, IRD, 2011.
+%  Pierrick Penven, IRD, 2015.
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %

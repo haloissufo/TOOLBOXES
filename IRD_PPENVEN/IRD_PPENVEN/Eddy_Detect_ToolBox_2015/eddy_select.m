@@ -5,7 +5,7 @@
 %  Get the eddies only with coherent properties: 
 %   minimum radius, maximum radius, minimum amplitude
 %
-%  Pierrick Penven, IRD, 2011.
+%  Pierrick Penven, IRD, 2015.
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
